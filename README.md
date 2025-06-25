@@ -64,7 +64,7 @@ pip install tensorflow opencv-python matplotlib numpy
 ### Running the Inference
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/jayan110105/Urban-Scene-Understanding.git
    cd Urban-Scene-Understanding
    ```
 
