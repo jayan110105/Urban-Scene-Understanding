@@ -21,7 +21,7 @@ Urban-Scene-Understanding/
 │   └── custom_dataset/          # Custom annotated data
 │       ├── images/              # Original frames
 │       └── masks/               # Custom segmentation masks
-├── MODELS/
+├── models/
 │   ├── stylization_model_v1/    # Pre-trained model version 1
 │   └── stylization_model_v2/    # Pre-trained model version 2 (latest)
 ├── archive/                     # Archived experimental models and data
@@ -86,7 +86,7 @@ If you want to train your own models:
 
 ## Models
 
-This repository contains pre-trained models in the `MODELS/` directory:
+This repository contains pre-trained models in the `models/` directory:
 
 - **`stylization_model_v1`**: First version of the stylization model
 - **`stylization_model_v2`**: Latest and most refined version (recommended)
